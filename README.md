@@ -20,7 +20,6 @@
     - Email: **raghuramduvvuri12@gmail.com**
     - Discord: **endgamerdagoat**
     - Codewars: **[endgamerdagoat](https://www.codewars.com/users/endgamerdagoat)**
-    - Leetcode: **[endgamerdagoat](https://leetcode.com/u/endgamerdagoat/)**
  
 ### My Tools:
 [![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,apple,unity&theme=dark)](https://skillicons.dev)
