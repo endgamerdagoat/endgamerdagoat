@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there 👋, I'm Raghuram Duvvuri </h1>
 <h3 align="center"> A high school student passionate about mathematics and software development </h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=endgamerdagoat&theme=nord" at="endgamerdagoat's stats"> </a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=endgamerdagoat&theme=nord" alt="endgamerdagoat's stats"> </a> </p>
 
 ### About Me:
 - 🔭 I’m currently working on **An AI budgeting app**
