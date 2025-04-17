@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=endgamerdagoat&theme=nord" alt="endgamerdagoat's stats"> </a> </p>
 
 ### About Me:
-- 🔭 I’m currently working on **An AI budgeting app**
+- 🔭 I’m currently working on **A folder cleaner**
 
 - 🌱 I’m currently learning **Swift and Unity**
 
@@ -25,4 +25,4 @@
 [![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,apple,unity&theme=dark)](https://skillicons.dev)
  
 
-<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamerdagoat&size_weight=0.5&count_weight=0.5&layout=donut"> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=endgamerdagoat"> </a> </p>
+<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamerdagoat&size_weight=0.5&count_weight=0.5&layout=compact"> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=endgamerdagoat"> </a> </p>
