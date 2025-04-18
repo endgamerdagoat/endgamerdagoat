@@ -25,4 +25,4 @@
 [![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity&theme=dark)](https://skillicons.dev)
  
 
-<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamerdagoat&size_weight=0.5&count_weight=0.5&layout=compact"> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=endgamerdagoat"> </a> </p>
+<p> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamerdagoat&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20"> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=endgamerdagoat"> </a> </p>
