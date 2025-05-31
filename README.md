@@ -22,7 +22,7 @@
     - Codewars: **[endgamerdagoat](https://www.codewars.com/users/endgamerdagoat)**
  
 ### My Tools:
-[![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity,git&theme=dark)](https://skillicons.dev)
  
 
 <p> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamerdagoat&size_weight=0.5&count_weight=0.5&layout=compact"> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=endgamerdagoat"> </a> </p>
