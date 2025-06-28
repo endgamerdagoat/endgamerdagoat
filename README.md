@@ -15,12 +15,6 @@
 - 💬 Ask me about **Java, Python, and advanced math**
 
 - ⚡ Fun fact **I like soccer, cricket, and gaming.**
-
-- 📫 Let's Connect:
-    - Email: **raghuramduvvuri12@gmail.com**
-    - Discord: **endgamerdagoat**
-    - Codewars: **[endgamerdagoat](https://www.codewars.com/users/endgamerdagoat)**
-
  
 ### My Tools:
 [![My Tools](https://skillicons.dev/icons?i=java,py,html,css,js,go,swift,c,cpp,cs,apple,unity,git&theme=dark)](https://skillicons.dev)
