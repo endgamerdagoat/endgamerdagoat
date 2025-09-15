@@ -4,7 +4,7 @@
 
 
 ### About Me:
-- 🔭 I’m currently working on **A productivity app**
+- 🔭 I’m currently working on **Book Recommendation site**
 
 - 🌱 I’m currently learning **Swift** and **Unity**
 
