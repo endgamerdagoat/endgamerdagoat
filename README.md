@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Raghuram Duvvuri </h1>
-<h3 align="center"> A high school student passionate about mathematics and software development </h3>
+<h3 align="center"> A high school student passionate about mathematics, physics, and software development </h3>
 
 
 
